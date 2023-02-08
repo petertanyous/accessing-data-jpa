@@ -2,7 +2,7 @@ package com.example.accessingdatajpa;
 import jakarta.persistence.*;
 
 import java.util.*;
-
+//this is to test commit and push
 @Entity
 public class AddressBook {
     @Id
